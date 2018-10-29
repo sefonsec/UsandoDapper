@@ -1,0 +1,8 @@
+D:\Sistemas.NET\UsandoDapper\UsandoDapper\bin\Debug\UsandoDapper.exe.config
+D:\Sistemas.NET\UsandoDapper\UsandoDapper\bin\Debug\UsandoDapper.exe
+D:\Sistemas.NET\UsandoDapper\UsandoDapper\bin\Debug\UsandoDapper.pdb
+D:\Sistemas.NET\UsandoDapper\UsandoDapper\bin\Debug\Dapper.dll
+D:\Sistemas.NET\UsandoDapper\UsandoDapper\bin\Debug\Dapper.xml
+D:\Sistemas.NET\UsandoDapper\UsandoDapper\obj\Debug\UsandoDapper.csprojResolveAssemblyReference.cache
+D:\Sistemas.NET\UsandoDapper\UsandoDapper\obj\Debug\UsandoDapper.exe
+D:\Sistemas.NET\UsandoDapper\UsandoDapper\obj\Debug\UsandoDapper.pdb
